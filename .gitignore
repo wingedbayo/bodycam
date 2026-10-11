@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+*.mp4
+*.wav
+*.onnx
+.DS_Store
